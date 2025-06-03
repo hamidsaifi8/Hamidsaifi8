@@ -63,28 +63,24 @@ const Hamid = {
 
 <div align="center">
   <!-- Languages & Fundamentals -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 
   <!-- Frontend & Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,threejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express" />
 
   <!-- Backend & API -->
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 
   <!-- Databases & Queues -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,githubactions" />
-  <img src="https://skillicons.dev/icons?i=prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,githubactions" />
+
 
   <!-- AI/ML -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-
-
-
   
 
 </div>
