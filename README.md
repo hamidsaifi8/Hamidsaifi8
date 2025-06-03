@@ -2,26 +2,26 @@
   <h1>
     Hello! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-    <br>I'm <strong>Lohit Kolluri</strong>
+    <br>I'm <strong>Hamid Saifi</strong>
   </h1>
-  <p><i>DevOps Engineer | AI/ML Explorer | 5× Hackathon Winner</i></p>
+  <p><i>Full Stack Developer</i></p>
 
-  <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=kollurilohit">
+  <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=hamidsaifi8">
     <img 
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
   </a>
-  <a href="https://lohit.is-a.dev/">
+  <a href="https://hamid.is-a.dev/">
     <img 
       src="https://img.shields.io/badge/Website-Website-24283B?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Website" />
   </a>
-  <a href="https://github.com/lohitkolluri">
+  <a href="https://github.com/hamidsaifi8">
     <img 
       src="https://img.shields.io/badge/GitHub-GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" />
   </a>
-  <a href="https://www.npmjs.com/package/lohitkolluri">
+  <a href="https://www.npmjs.com/package/hamidsaifi8">
     <img 
       src="https://img.shields.io/badge/CLI-npx_lohitkolluri-24283B?style=for-the-badge&logo=npm&logoColor=white" 
       alt="CLI Card" />
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=24283B" 
+    src="https://hamidsaifi.com/ghpvc/?username=hamidsaifi8&style=for-the-badge&color=24283B" 
     alt="Profile Views" />
 </p>
 
@@ -41,19 +41,18 @@
 </h2>
 
 ```js
-const lohit = {
-  name: 'Lohit Kolluri',
+const Hamid = {
+  name: 'Hamid Saifi',
   current: 'Exploring GenAI & Autonomous DevOps',
   interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
   tech: {
-    Backend:  ['Python', 'FastAPI', 'Django', 'Node.js'],
+    Backend:  ['Node.js', 'FastAPI', 'Express.js'],
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
-    DB:       ['PostgreSQL', 'MongoDB', 'Redis'],
+    DB:       ['MYSQL', 'MongoDB'],
     Tools:    ['Prometheus', 'GitHub Actions', 'RabbitMQ'],
   },
-  certs: ['Azure AI-900', 'AZ-900', 'SC-900', 'GitHub Foundations'],
-  funFact: "npx lohitkolluri — my terminal biz card ✨",
+  
 };
 ````
 
