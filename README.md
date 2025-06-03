@@ -82,42 +82,9 @@ const Hamid = {
   <!-- AI/ML -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=arduino,discordjs,github" />
-</div>
 
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
-  GitHub Analytics
-</h2>
 
-<!-- Basic Stats + Streaks -->
-<p align="center">
-  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=lohitkolluri&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=percentile&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=lohitkolluri&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohitkolluri&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</p>
-
-<!-- Profile Summary Cards -->
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohitkolluri&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohitkolluri&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohitkolluri&theme=tokyonight" />
-</p>
-
-<h2 align="left">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20px" height="20px">
-  Achievements
-</h2>
-
-<div align="left">
   
-[![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+
 </div>
