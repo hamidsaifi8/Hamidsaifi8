@@ -37,7 +37,7 @@
 
 ```js
 const Hamid = {
-  Name: 'Hamid Saifi',
+  Name: 'Mohammad Hamid',
   Current: 'Exploring GenAI & Autonomous DevOps',
   Interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
   Tech: {
