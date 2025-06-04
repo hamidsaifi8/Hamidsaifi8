@@ -6,7 +6,7 @@
   </h2>
   <p><i>Full Stack Developer</i></p>
 
-  <a href="[https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=hamidsaifi8](https://www.linkedin.com/in/consultwithhamid/)">
+  <a href="https://www.linkedin.com/in/consultwithhamid/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-LinkedIn-24283B?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
