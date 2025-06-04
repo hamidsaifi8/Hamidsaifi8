@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
     <br>I'm <strong>Mohammad Hamid</strong>
   </h2>
- <h2> 📫 Reach me at <strong>consultwithhamid@gmail.com</strong></h2>
+ <p> 📫 Reach me at <strong>consultwithhamid@gmail.com</strong></p>
   <p><i>Full Stack Developer</i></p>
 
   <a href="https://www.linkedin.com/in/consultwithhamid/">
@@ -29,11 +29,7 @@
   </a>
 </div>
 
-<p align="center">
-  <img 
-    src="https://hamidsaifi.com/ghpvc/?username=hamidsaifi8&style=for-the-badge&color=24283B" 
-    alt="Profile Views" />
-</p>
+
 
 ```js
 const Hamid = {
