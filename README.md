@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>
+  <h2>
     Hello! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
     <br>I'm <strong>Hamid Saifi</strong>
-  </h1>
+  </h2>
   <p><i>Full Stack Developer</i></p>
 
   <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=hamidsaifi8">
