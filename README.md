@@ -73,10 +73,10 @@ const Hamid = {
 
   <!-- Databases & Queues -->
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  
 
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,githubactions" />
+
+   <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws" />
 
 
   <!-- AI/ML -->
@@ -84,3 +84,8 @@ const Hamid = {
   
 
 </div>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidsaifi8&show_icons=true&locale=en&layout=compact" alt="hamidsaifi8" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidsaifi8&show_icons=true&locale=en" alt="hamidsaifi8" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidsaifi8&" alt="hamidsaifi8" /></p>
