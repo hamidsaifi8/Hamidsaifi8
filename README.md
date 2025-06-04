@@ -35,18 +35,12 @@
     alt="Profile Views" />
 </p>
 
-
-<h2 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px"> 
-  About Me 
-</h2>
-
 ```js
 const Hamid = {
-  name: 'Hamid Saifi',
-  current: 'Exploring GenAI & Autonomous DevOps',
-  interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
-  tech: {
+  Name: 'Hamid Saifi',
+  Current: 'Exploring GenAI & Autonomous DevOps',
+  Interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
+  Tech: {
     Backend:  ['Node.js', 'FastAPI', 'Express.js'],
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
