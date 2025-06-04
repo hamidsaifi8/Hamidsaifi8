@@ -23,7 +23,7 @@
   </a>
   <a href="https://www.npmjs.com/package/hamidsaifi8">
     <img 
-      src="https://img.shields.io/badge/CLI-npx_lohitkolluri-24283B?style=for-the-badge&logo=npm&logoColor=white" 
+      src="https://img.shields.io/badge/CLI-npx_hamidsaifi8-24283B?style=for-the-badge&logo=npm&logoColor=white" 
       alt="CLI Card" />
   </a>
 </div>
