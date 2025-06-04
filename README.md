@@ -2,7 +2,7 @@
   <h2>
     Hello! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-    <br>I'm <strong>Hamid Saifi</strong>
+    <br>I'm <strong>Mohammad Hamid</strong>
   </h2>
  <h2> 📫 Reach me at <strong>consultwithhamid@gmail.com</strong></h2>
   <p><i>Full Stack Developer</i></p>
