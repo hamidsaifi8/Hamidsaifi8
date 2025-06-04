@@ -72,15 +72,15 @@ const Hamid = {
   <img src="https://skillicons.dev/icons?i=nodejs" />
 
   <!-- Databases & Queues -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
   
 
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,githubactions" />
 
 
   <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
   
 
 </div>
