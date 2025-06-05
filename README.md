@@ -42,9 +42,8 @@ const Hamid = {
     Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
     DB:       ['MYSQL', 'MongoDB'],
     Tools:    ['Prometheus', 'GitHub Actions', 'RabbitMQ'],
-  },
+  };
   
-};
 ````
 
 <h2 align="center">
