@@ -35,7 +35,7 @@
 const Hamid = {
   Name: 'Mohammad Hamid',
   Current: 'Exploring GenAI & Autonomous DevOps',
-  Interest: ['DevOps', 'Cloud-Native Systems', 'Full Stack Dev', 'AI/ML'],
+  Interest: [ 'Full Stack Dev', 'DevOps', 'AI/ML', 'Cloud-Native Systems'],
   Tech: {
     Backend:  ['Node.js', 'FastAPI', 'Express.js'],
     Frontend: ['React', 'Next.js', 'Tailwind'],
