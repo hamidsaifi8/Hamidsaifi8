@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
     <br>I'm <strong>Mohammad Hamid</strong>
   </h2>
- <p> Reach me at <h3>consultwithhamid@gmail.com</h3></p>
+ <p> Reach me at <b><u>consultwithhamid@gmail.com</u></b></p>
   <p><i>Full Stack Developer</i></p>
 
   <a href="https://www.linkedin.com/in/consultwithhamid/">
