@@ -5,7 +5,7 @@
     <br>I'm <strong>Mohammad Hamid</strong>
   </h2>
  <p> Reach me at <b><u>consultwithhamid@gmail.com</u></b></p>
-  <p><i>Full Stack Developers</i></p>
+  <p><i>Full Stack Developer</i></p>
 
   <a href="https://www.linkedin.com/in/consultwithhamid/">
     <img 
