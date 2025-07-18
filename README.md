@@ -41,7 +41,7 @@ const Hamid = {
     Frontend: ['React', 'Next.js', 'Tailwind'],
     Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
     DB:       ['MYSQL', 'MongoDB'],
-    Tools:    ['Prometheus', 'GitHub Actions', 'RabbitMQ'],};
+    Tools:    ['Prometheus', 'GitHub Actions'],};
   };
   
 ````
