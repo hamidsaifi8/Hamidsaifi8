@@ -2,7 +2,7 @@
   <h2>
     Hello! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-    <br>I'm <strong>Mohammad Hamid   </strong>
+    <br>I'm <strong> Mohammad Hamid   </strong>
   </h2>
  <p> React me at <b><u>consultwithhamid@gmail.com</u></b></p>
   <p><i>Full Stack Developer(MERN)</i></p>
