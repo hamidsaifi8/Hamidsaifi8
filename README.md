@@ -39,7 +39,7 @@ const Hamid = {
   Tech: {
     Backend:  ['Node.js', 'FastAPI', 'Express.js'],
     Frontend: ['React', 'Next.js', 'Tailwind'],
-    Cloud:    ['AWS', 'Azure', 'Docker', 'Kubernetes'],
+    Cloud:    ['AWS', 'Azure', 'Docker'],
     DB:       ['MYSQL', 'MongoDB'],
     Tools:    ['Prometheus', 'GitHub Actions'],};
   };
